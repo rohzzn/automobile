@@ -1,6 +1,6 @@
 # Automobile Business Analytics and Credit Card Policy Enhancement
 
-Welcome to this GitHub repository that contains two succinct business analytics reports. The reports aim to improve marketing strategies for an automobile company and enhance credit card policies for a bank.
+Two succinct business analytics reports. The reports aim to improve marketing strategies for an automobile company and enhance credit card policies for a bank.
 
 ---
 
