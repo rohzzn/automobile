@@ -63,4 +63,4 @@ This repository contains two concise business analytics reports focused on impro
 
 ## Note
 
-For comprehensive analysis and detailed code, refer to the Jupyter Notebook files in the respective folders.
+For comprehensive analysis and detailed code, refer to the [Notebook](https://github.com/rohzzn/automobile/blob/main/colab.ipynb) files in the respective folders.
